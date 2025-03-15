@@ -1,0 +1,6 @@
+Transaction_ID,Customer_Name,Amount($),Date,Category
+101,Alice,250.50,2025-03-01,Electronics
+102,Bob,NaN,2025-02-28,Groceries
+103,Charlie,-100.00,2025-03-02,Fashion
+104,Alice,250.50,2025-03-01,Electronics
+105,David,89.99,Not a Date,Fashion
